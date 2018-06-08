@@ -28,6 +28,8 @@ PocketSphinx
  
  pip3 install --allow-unverified=pyaudio pyaudio
  
+ pip3 install SpeechRecognition
+ 
  # How to use
  Type "help" to check the list of currently available commands.
  
