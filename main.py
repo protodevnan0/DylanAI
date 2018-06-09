@@ -31,7 +31,7 @@ def help_dai():
 def info_dai():
  print("");
  print(" ------ INFO ------ ");
- print(" Current Version: 0.1 alpha ");
+ print(" Current Version: 0.2 alpha ");
  print(" Using pyttsx3 ");
  print("");
  wake_dai();
